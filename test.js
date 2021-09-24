@@ -1,0 +1,1 @@
+$('Hi').attr('class', 'texts');
